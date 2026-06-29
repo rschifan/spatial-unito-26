@@ -1,0 +1,23 @@
+# Optional extras for full deck coverage
+# Install with: pip install -r notebooks/requirements-extras.txt
+
+# Networks
+osmnx
+networkx
+
+# Notebooks
+jupyter
+jupyterlab
+ipykernel
+
+# Spatial indexing
+rtree
+
+# Additional utilities referenced or useful
+rasterstats
+contextily
+matplotlib
+
+# Point clouds (optional, mentioned conceptually)
+laspy
+open3d

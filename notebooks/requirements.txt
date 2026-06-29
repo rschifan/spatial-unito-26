@@ -1,0 +1,6 @@
+geopandas
+rasterio
+rioxarray
+xarray
+pyproj
+pandas

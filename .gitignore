@@ -1,0 +1,9 @@
+# Slide sources — kept local, not published
+src/
+CLAUDE.md
+
+# macOS / Jupyter / Python cruft
+.DS_Store
+**/.ipynb_checkpoints/
+**/__pycache__/
+*.pyc
