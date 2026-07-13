@@ -21,3 +21,11 @@ matplotlib
 # Point clouds (optional, mentioned conceptually)
 laspy
 open3d
+
+# Machine learning (decks 06 ML integration + 09 capstone notebooks)
+scikit-learn
+gstools          # variograms & kriging (RFsp vs kriging, notebook 09_B)
+torch            # GNNs + location encoders (notebooks 10_C, 11_D)
+torch_geometric  # GCN / Planetoid Cora loader; install may need CPU wheel index:
+                 #   pip install torch_geometric  (see pyg.org/get-started for pinned wheels)
+# geoclip        # optional: pretrained GeoCLIP location encoder (pulls torch)
