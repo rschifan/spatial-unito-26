@@ -7,3 +7,7 @@ CLAUDE.md
 **/.ipynb_checkpoints/
 **/__pycache__/
 *.pyc
+
+# Notebook run artifacts (regenerated on execution)
+notebooks/cache/
+notebooks/outputs/
