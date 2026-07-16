@@ -18,6 +18,9 @@ rasterstats
 contextily
 matplotlib
 
+# Point patterns (deck 05 Part 2, notebook 04b: quadrats, KDE, G/F/K envelopes)
+pointpats
+
 # Point clouds (optional, mentioned conceptually)
 laspy
 open3d
